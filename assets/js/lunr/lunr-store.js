@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/jekyll/update/2024/12/22/welcome-to-jekyll.html",
         "teaser": null
+      },{
+        "title": "Welcome to Jekyll!",
+        "excerpt":"Sensitivity to the data distribution You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server...","categories": ["LLM"],
+        "tags": [],
+        "url": "/llm/2025/10/30/preference-optimization.html",
+        "teaser": null
       }]
